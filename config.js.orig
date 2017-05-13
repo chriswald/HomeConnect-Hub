@@ -1,0 +1,9 @@
+module.exports = {
+  ApiLogin: {
+    Email: "",
+    Password: ""
+  },
+  Server: {
+    ListenPort: 
+  }
+};
