@@ -1,0 +1,3 @@
+This is run automatically on startup by adding
+  su pi -c "node ~/WebClient/HomeConnectHub.js < /dev/null &"
+to the end of /etc/rc.local
